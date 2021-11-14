@@ -1,0 +1,23 @@
+
+
+[✅]   Register a user
+
+[✅]  Login a user
+
+[✅]  Who i am(authenticate user)
+
+[✅]  Refresh Token
+
+[✅]  Logout User
+
+[✅]  Add new product
+
+[✅]  Update a product
+
+[✅]  Get all product
+
+[✅]  Get Single product
+
+[✅]  Delete a product
+
+
